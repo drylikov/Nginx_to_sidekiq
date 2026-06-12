@@ -82,7 +82,6 @@
 
 
 
-
 # Nginx (OpenResty) module to use Sidekiq as a backend.
 
 This is POC (Proof of concept)! My idea was to use handle http requests with sidekiq worker
